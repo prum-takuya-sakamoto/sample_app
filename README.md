@@ -11,7 +11,21 @@
 ソースコードはMITライセンスとBeerwareライセンスのもとで公開されています。
 詳細は [LICENSE.md](LICENSE.md) をご覧ください。
 
-## 使い方
+## 本番環境のURL
+https://fierce-stream-22445.herokuapp.com/
+
+## ログイン情報
+アプリへの登録はせず、ログインだけを行いたい場合は以下の情報にてログインしてください。
+
+**Email**
+
+example@railstutorial.org
+
+**Password**
+
+foobar
+
+## 使い方・ローカル環境での起動方法
 
 このアプリケーションを動かす場合は、まずはリポジトリを手元にクローンしてください。
 その後、次のコマンドで必要になる RubyGems をインストールします。
@@ -42,3 +56,6 @@ $ rails server
 
 詳しくは、[*Ruby on Rails チュートリアル*](https://railstutorial.jp/)
 を参考にしてください。
+
+## 今回の勉強したことのメモ
+[Ruby on Rails の勉強メモ](https://scrapbox.io/takuyasakamoto-73997658/Ruby_on_Rails_%E3%81%AE%E5%8B%89%E5%BC%B7%E3%83%A1%E3%83%A2)

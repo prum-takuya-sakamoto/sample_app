@@ -1,5 +1,16 @@
 # Ruby on Rails チュートリアルのサンプルアプリケーション
 
+## 概要
+
+Railsチュートリアルの第6版を学習しました。
+アプリの操作確認をお願いいたします。
+
+- AWS Cloud9は用いず、ローカル環境（VS Code）でチュートリアルを進めました
+- ...演習はすべて飛ばしました！
+- HerokuのURLとログイン情報は後述します
+
+## このアプリについて
+
 これは、次の教材で作られたサンプルアプリケーションです。
 [*Ruby on Rails チュートリアル*](https://railstutorial.jp/)
 （第6版）
@@ -11,10 +22,12 @@
 ソースコードはMITライセンスとBeerwareライセンスのもとで公開されています。
 詳細は [LICENSE.md](LICENSE.md) をご覧ください。
 
-## 本番環境のURL
+## 本番環境のURL（Heroku）
+
 https://fierce-stream-22445.herokuapp.com/
 
 ## ログイン情報
+
 アプリへの登録はせず、ログインだけを行いたい場合は以下の情報にてログインしてください。
 
 **Email**
@@ -57,5 +70,5 @@ $ rails server
 詳しくは、[*Ruby on Rails チュートリアル*](https://railstutorial.jp/)
 を参考にしてください。
 
-## 今回の勉強したことのメモ
+## 今回勉強したことのメモ
 [Ruby on Rails の勉強メモ](https://scrapbox.io/takuyasakamoto-73997658/Ruby_on_Rails_%E3%81%AE%E5%8B%89%E5%BC%B7%E3%83%A1%E3%83%A2)
